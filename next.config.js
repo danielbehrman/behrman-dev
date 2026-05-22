@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  distDir: '/tmp/behrman-dev-next',
-}
+const nextConfig = {}
 
 module.exports = nextConfig
