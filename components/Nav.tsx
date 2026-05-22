@@ -6,10 +6,10 @@ export default function Nav() {
           Dan Behrman
         </span>
         <nav className="flex items-center gap-0.5 sm:gap-1">
-          <a href="#work"    className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Work</a>
-          <a href="#about"   className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">About</a>
-          <a href="#writing" className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Writing</a>
-          <a href="#contact" className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Contact</a>
+          <a href="#consulting" className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Consulting</a>
+          <a href="#building"   className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Building</a>
+          <a href="#writing"    className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">Writing</a>
+          <a href="#about"      className="text-sm text-secondary hover:text-accent transition-colors px-2 py-1">About</a>
           <a
             href="https://www.linkedin.com/in/dan-behrman/"
             target="_blank"

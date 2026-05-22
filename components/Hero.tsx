@@ -12,17 +12,18 @@ export default function Hero() {
 
       <div className="max-w-content mx-auto px-6 py-24 relative z-10 w-full">
         <FadeUp>
-          <p className="section-label mb-6">Shipyard</p>
-          <h1 className="font-heading text-4xl sm:text-5xl font-bold text-primary leading-[1.1] tracking-tight mb-8">
-            Hi, I&rsquo;m Dan Behrman&nbsp;&mdash;<br />
-            welcome to Shipyard,<br />
-            where I build things.
+          <h1 className="font-heading text-4xl sm:text-5xl font-bold text-primary leading-[1.1] tracking-tight mb-6">
+            Marketer. Writer. Builder.<br />
+            I&rsquo;ve been told to pick one. I haven&rsquo;t.
           </h1>
+          <p className="text-secondary text-lg leading-relaxed mb-10 max-w-[600px]">
+            AI marketing strategy for companies that want more than a chatbot. A physics Substack with my 7-year-old. Products that won&rsquo;t leave me alone. All of it lives here.
+          </p>
           <a
-            href="#work"
-            className="inline-block px-6 py-3 bg-accent text-background font-heading font-semibold text-sm rounded-lg hover:bg-accent/90 transition-colors"
+            href="#consulting"
+            className="inline-block px-6 py-3 bg-accent text-primary font-heading font-semibold text-sm rounded-lg hover:bg-accent/90 transition-colors"
           >
-            See what I&rsquo;m building
+            See what I&rsquo;m working on
           </a>
         </FadeUp>
       </div>

@@ -8,14 +8,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: '#0F0F0F',
-        surface: '#1A1A1A',
-        border: '#2A2A2A',
-        primary: '#F0EDE8',
-        secondary: '#888888',
+        background: '#FAF8F5',
+        surface: '#F0EDE8',
+        border: '#E5E2DC',
+        primary: '#1C1C1E',
+        secondary: '#6B7280',
         accent: '#F0A500',
+        navy: '#1E3A5F',
         'badge-soon': '#4F46E5',
         'badge-progress': '#06B6D4',
+        'badge-dogfood': '#F0A500',
       },
       fontFamily: {
         sans: ['var(--font-inter)', 'ui-sans-serif', 'system-ui', 'sans-serif'],

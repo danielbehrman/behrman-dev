@@ -1,13 +1,13 @@
 import type { Metadata } from 'next'
 import { GeistSans } from 'geist/font/sans'
-import { Inter } from 'next/font/google'
+/\import { Inter } from 'next/font/google'
 import './globals.css'
 
 const inter = Inter({
   subsets: ['latin'],
   variable: '--font-inter',
   display: 'swap',
-})
+ })
 
 export const metadata: Metadata = {
   title: 'Dan Behrman',

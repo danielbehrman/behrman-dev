@@ -8,6 +8,13 @@ export default function About() {
           <p className="section-label mb-10">About</p>
           <div className="space-y-6 text-primary/90 text-[17px] leading-[1.75]">
             <p>
+              My first job out of engineering school was designing rides at Walt Disney Imagineering.
+              Later, structural analysis on the Boeing 787. Somewhere along the way I realized the
+              build wasn&rsquo;t the interesting part. Making people understand why it mattered was.
+              That turned into 20 years in product and marketing at Amazon, Meta, T-Mobile,
+              Grammarly, and Highspot.
+            </p>
+            <p>
               I&rsquo;ve been building things since I was five years old, drawing up plans
               for roller coasters and dreaming about becoming a Disney Imagineer. That
               dream stuck &mdash; I became a mechanical engineer, spent time as a Disney
