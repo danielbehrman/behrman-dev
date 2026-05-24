@@ -98,7 +98,7 @@ export default async function Writing() {
               No posts yet. Check back soon.
             </div>
           ) : (
-            <div className="grid gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               {posts.map((post) => (
                 <a
                   key={post.link}

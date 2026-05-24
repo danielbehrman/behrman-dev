@@ -1,15 +1,14 @@
 import FadeUp from '@/components/FadeUp'
 
-export default function Consulting() {
+export default function Marketing() {
   return (
-    <section id="consulting" className="py-24 border-t border-border">
+    <section id="marketing" className="py-24 border-t border-border">
       <div className="max-w-content mx-auto px-6">
         <FadeUp>
-          <p className="section-label mb-10">Consulting</p>
           <h2 className="font-heading text-3xl sm:text-4xl font-bold text-navy leading-tight tracking-tight mb-10">
-            AI Marketing and GTM Strategy
+            Marketing &times; Engineering
           </h2>
-          <div className="space-y-6 text-primary/90 text-[17px] leading-[1.75] mb-10">
+          <div className="space-y-6 text-primary/90 text-[17px] leading-[1.75]">
             <p>
               Most marketing teams using AI have noisy output they&rsquo;re cleaning up by hand.
               Nobody is thinking about hallucination rates, input design, synthesis architecture,
@@ -36,12 +35,6 @@ export default function Consulting() {
               simultaneously. Most people in this space can do one or two of those. Not all three.
             </p>
           </div>
-          <a
-            href="mailto:dan@behrman.dev"
-            className="inline-block px-6 py-3 bg-accent text-primary font-heading font-semibold text-sm rounded-lg hover:bg-accent/90 transition-colors"
-          >
-            Let&rsquo;s talk
-          </a>
         </FadeUp>
       </div>
     </section>
