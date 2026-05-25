@@ -17,7 +17,7 @@ export default function Hero() {
             I&rsquo;ve been told to pick one. I haven&rsquo;t.
           </h1>
           <p className="text-secondary text-lg leading-relaxed mb-10 max-w-[600px]">
-            Engineering-driven marketing. A physics Substack with my 7-year-old. Products that won&rsquo;t leave me alone. All of it lives here.
+            Engineering-driven marketing. Products that won&rsquo;t leave me alone. A physics Substack with my 7-year-old. All of it lives here.
           </p>
           <a
             href="#marketing"

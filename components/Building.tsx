@@ -23,6 +23,7 @@ const projects: Project[] = [
     description: 'A daily dosing assistant for families in food allergy tolerance induction programs.',
     type: 'Web App',
     status: 'Dogfooding',
+    href: 'https://tippal.behrman.dev',
   },
   {
     name: 'Liftoff Lab',
