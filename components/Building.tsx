@@ -14,14 +14,20 @@ const projects: Project[] = [
   {
     name: 'Covered',
     description: "PTO and family calendar planner — so school days off don't catch you off guard.",
-    type: 'App',
+    type: 'Web App',
     status: 'Dogfooding',
     href: 'https://covered.behrman.dev/signup',
   },
   {
+    name: 'TIP Pal',
+    description: 'A daily dosing assistant for families in food allergy tolerance induction programs.',
+    type: 'Web App',
+    status: 'Dogfooding',
+  },
+  {
     name: 'Liftoff Lab',
     description: 'A physics-based rocket builder game for kids, co-designed with a 7-year-old.',
-    type: 'Game',
+    type: 'iOS Game',
     status: 'Coming Soon',
   },
 ]
