@@ -20,7 +20,7 @@ export default function Hero() {
             AI marketing strategy for companies that want more than a chatbot. A physics Substack with my 7-year-old. Products that won&rsquo;t leave me alone. All of it lives here.
           </p>
           <a
-            href="#consulting"
+            href="#marketing"
             className="inline-block px-6 py-3 bg-accent text-primary font-heading font-semibold text-sm rounded-lg hover:bg-accent/90 transition-colors"
           >
             See what I&rsquo;m working on
